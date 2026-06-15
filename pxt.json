@@ -1,0 +1,33 @@
+{
+    "name": "Downhill Ski",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Downhill Skiing Full 2.0 #2 JS Copy - Copy": "pub:62900-42419-32833-04005",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#v0.1.2"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.0",
+        "tag": "v4.0.10",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/36d4f2a19825951e0393581aaa2748922cbe0095",
+        "target": "4.0.14",
+        "pxt": "12.2.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "languageRestriction": "javascript-only"
+}
